@@ -2,6 +2,10 @@
 
 A collection of files related to machine learning forcefields (MLFF) within our research group. Training data, scripts, and forcefields are included where appropriate.
 
+## Useful utilities
+
+* ML_AB file I/O: https://github.com/utf/pymlff
+
 ## [Li<sub>3</sub>N](Li3N)
 
 _Details:_ Gaussian Approximation Potential (GAP)-style MLFF trained using on-the-fly sampling of reference configurations in VASP.
