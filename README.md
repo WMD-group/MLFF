@@ -1,6 +1,6 @@
 # MLFF
 
-A collection of files related to machine learning forcefields (MLFF). Training data, scripts, and forcefields are included where approporpriate.
+A collection of files related to machine learning forcefields (MLFF) within our research group. Training data, scripts, and forcefields are included where appropriate.
 
 ## [Li<sub>3</sub>N](Li3N)
 
