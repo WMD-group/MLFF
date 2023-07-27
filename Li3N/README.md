@@ -1,8 +1,3 @@
-# MLFF
-
-A collection of files related to machine learning forcefields (MLFF). Training data, scripts, and forcefields are included where approporpriate.
-
-
 ## [Li<sub<3<sub>N](Li3N)
 
 Details: Gaussian Approximation Potential (GAP)-style MLFF trained using using on-the-fly sampling of reference configurations in VASP.
